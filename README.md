@@ -15,7 +15,7 @@ I'm a *geophysicist* doing my PhD in Australia, modelling the lithosphere struct
 
 🤽 [Subglacial Sedimentary Basin](https://github.com/LL-Geo/ANT_SEDI) distribution and groundwater in Antarctica ([paper link](https://www.nature.com/articles/s41561-022-00992-5))
 
-:globe_with_meridians: Crust Heterogeneity model in Antarctica ([poster link](https://github.com/LL-Geo/RINGS_Poster))
+:globe_with_meridians: Crustal Heterogeneity model in Antarctica ([poster link](https://github.com/LL-Geo/RINGS_Poster)) Preprint coming soon..
 
 ### Research interest :sparkles:
 
@@ -23,7 +23,7 @@ I'm a *geophysicist* doing my PhD in Australia, modelling the lithosphere struct
 
 :monocle_face: Large scale inversion method and application
 
-:closed_lock_with_key: Open source software 
+:closed_lock_with_key: Open source software - check the amazing 🌎 [Fatiando a Terra](https://www.fatiando.org/)
 
 ### Random Stuff :see_no_evil:
 
