@@ -9,7 +9,7 @@ I'm a *geophysicist* doing my PhD in Australia, modelling the lithosphere struct
 
 ### Current work ⚡
 
-:fire: Modelling the thermal-mechanical structure of Antarctic lithopshere 
+:fire: Modelling the thermal-mechanical structure of Antarctic lithopshere. ([My SCAR 2022 talk](https://github.com/LL-Geo/SCAR_2022))
 
 ### Previous work 🌱
 
